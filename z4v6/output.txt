@@ -1,0 +1,4 @@
+Second array:
+12745
+Third array:
+63342
